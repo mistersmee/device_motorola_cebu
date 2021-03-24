@@ -12,7 +12,7 @@ PRODUCT_BRAND := motorola
 PRODUCT_DEVICE := cebu
 PRODUCT_MANUFACTURER := motorola
 PRODUCT_NAME := lineage_cebu
-PRODUCT_MODEL := moto g(8) power
+PRODUCT_MODEL := moto g(9) power
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 TARGET_VENDOR := motorola
